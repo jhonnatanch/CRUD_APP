@@ -10,9 +10,12 @@ https://main--crudapp1jh.netlify.app/
 
 ### Funcionamiento
 
+
 Así es como se verá al principio, debido a que no hemos ingresado datos.
 
-[CapturaCRUDAPP.JPG](https://github.com/jhonnatanch/CRUD_APP/blob/055de9546b9f68bcf2d5a97d28abd24fd163f5cc/CapturaCRUDAPP.JPG)
+
+![Logo de mi proyecto]([https://github.com/tu-usuario/tu-repositorio/raw/main/images/logo.png](https://github.com/jhonnatanch/CRUD_APP/blob/main/CapturaCRUDAPP.JPG))
+
 
 
 
